@@ -1,1 +1,1 @@
-# mpp2580 MicroSD card module
+# Модуль BLDC на DRV8313
